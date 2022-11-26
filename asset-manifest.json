@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sjmedia/static/css/main.7064deb2.css",
+    "main.js": "/sjmedia/static/js/main.c6ce5251.js",
+    "index.html": "/sjmedia/index.html",
+    "main.7064deb2.css.map": "/sjmedia/static/css/main.7064deb2.css.map",
+    "main.c6ce5251.js.map": "/sjmedia/static/js/main.c6ce5251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.c6ce5251.js"
+  ]
+}
